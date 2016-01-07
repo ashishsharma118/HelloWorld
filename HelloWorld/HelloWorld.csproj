@@ -51,6 +51,7 @@
     <None Include="App.config" />
     <None Include="NewFile" />
     <None Include="NewFile2" />
+    <None Include="NewFile3" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
